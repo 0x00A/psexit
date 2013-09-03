@@ -1,11 +1,18 @@
 {
   "name": "psexit",
-  "version": "0.0.0",
-  "description": "",
+  "version": "1.0.0",
+  "description": "exit a child process",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "BSD-2-Clause"
+  "author": "substack",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hij1nx/psexit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hij1nx/psexit/issues"
+  }
 }
